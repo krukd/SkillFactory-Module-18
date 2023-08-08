@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SkillFactory-Module-18": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.youtube.com/watch?v=PoN05pqAtz4"
+    }
+  }
+}
